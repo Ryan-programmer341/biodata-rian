@@ -7,10 +7,28 @@
 
 ---
 
-### 🧑‍🎓 Informasi Pribadi
-- 📛 **Nama:** Muh.Adrian  
-- 🆔 **NIM:** 000999889859  
-- 🏫 **Sekolah/Kampus:** SMK Negeri 06 Kendari
+<div align="center" style="max-width: 400px; border: 2px solid #4CAF50; border-radius: 12px; padding: 20px; background: #f0f8ff; box-shadow: 0 4px 10px rgba(76, 175, 80, 0.3);">
+  
+<table>
+  <tr>
+    <td>📛 <strong>Nama</strong></td>
+    <td>: Muh.Adrian</td>
+  </tr>
+  <tr>
+    <td>🆔 <strong>NIM</strong></td>
+    <td>: 0899393928 rawr</td>
+  </tr>
+  <tr>
+    <td>🏫 <strong>Sekolah</strong></td>
+    <td>: SMK Negeri 06 Kendari</td>
+  </tr>
+  <tr>
+    <td>📍 <strong>Lokasi</strong></td>
+    <td>: Kota Kendari,Sulawesi Tenggara</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 

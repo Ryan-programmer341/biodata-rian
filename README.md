@@ -1,6 +1,6 @@
 # biodata-rian
 <p align="center">
-  <img src="https://imgur.com/a/66bVFe8" width="150" style="border-radius: 50%" alt="Foto Profil"/>
+  <img src="https://avatars.githubusercontent.com/u/218887376?s=400&u=a013685ccf5f3c50691d01ed471b614027dfd903&v=4" width="150" style="border-radius: 50%" alt="Foto Profil"/>
 </p>
 
 <h1 align="center">👋 Halo, Saya RIAN</h1>
@@ -23,7 +23,7 @@
 
 ### 📈 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=github_dark" />
+  <img src="https://github.com/Ryan-programmer341/biodata-rian.git"/>
 </p>
 
 ---

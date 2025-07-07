@@ -37,5 +37,9 @@
 ### 📫 My social media
 <a href="https://www.tiktok.com/@rianch_official2?_t=ZS-8xodmlaotKE&_r=1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
+  </a><br>
+
+  ---
+
+### KATA KATA MOTIVASI 
 > _"Jika kamu lelah dengan keadaan jangan lupa berdoa kepada tuhan agar bisa dimudahkan."_ 💡

@@ -19,6 +19,7 @@
 -  Mendengarkan musik  
 -  mengedit video sesuai dengan niat
 - ngobrol/nongkrong bareng teman di discord
+-live stream atau bikin konten
 ---
 
 ### 📈 Statistik GitHub
@@ -38,8 +39,14 @@
 <a href="https://www.tiktok.com/@rianch_official2?_t=ZS-8xodmlaotKE&_r=1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a><br>
+  <a href="https://youtube.com/@rianch_asli?si=bKAHg9XMdi9x2g50"target="_blank" rel ="noopener noreferrer">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
 
   ---
 
 ### KATA KATA MOTIVASI 
 > _"Jika kamu lelah dengan keadaan jangan lupa berdoa kepada tuhan agar bisa dimudahkan."_ 💡
+
+
+---
+

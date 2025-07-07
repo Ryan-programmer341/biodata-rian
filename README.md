@@ -37,7 +37,7 @@
 -  Mendengarkan musik  
 -  mengedit video sesuai dengan niat
 - ngobrol/nongkrong bareng teman di discord
--live stream atau bikin konten
+-  live stream atau bikin konten
 ---
 
 ### 📈 Statistik GitHub

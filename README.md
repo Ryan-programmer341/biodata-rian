@@ -40,7 +40,7 @@
 -  live stream atau bikin konten
 ---
 
-### 📈 Statistik GitHub
+### 
 <p align="center">
   <img src="https://github.com/Ryan-programmer341/biodata-rian.git"/>
 </p>

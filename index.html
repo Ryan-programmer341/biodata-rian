@@ -1,54 +1,40 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biodata</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background: #ffffff;
-            font-family: Arial, sans-serif;
-        }
-        .biodata-card {
-            border: 2px solid #fd0000;
-            border-radius: 15px;
-            width: 400px;
-            padding: 20px;
-            background: #000000;
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>BIODATA</title>
+     <style>
+        .button{
+            display: flex
             text-align: center;
         }
-        .biodata-card img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-            border: 2px solid #fffefe;
-            margin-bottom: 15px;
+        .container{
+            display: flex;
+            margin-left: 900px;
         }
-        .biodata-card h2, .biodata-card p {
-            margin: 5px 0;
-        }
-        .biodata-card .description {
-            margin-top: 15px;
-            font-style: italic;
-            color: #ffffff;
+        .menu{
+            text-align: right;
+            padding-left: 80px;
         }
     </style>
-</head>
+    </head>
 <body>
-    <div class="biodata-card">
-        <img src="foto.jpg" alt="Foto Profil">
-        <h2>Nama Lengkap:Muh.Adrian</h2>
-        <p><strong>NIM:09898958</strong> 123456</p>
-        <p><strong>Sekolah: SMK Negeri 06 Kendari</strong> SMK</p>
-        <div class="description">
-            Jelaskan apa saja hobi dan keseharian mu di sini.
-            
-        </div>
+    <div class="container">
+        <h1 class="menu"><a href="index.html">About</a></h1>
+        <h1 class="menu"><a href="index2.html">Home</a></h1>
+        <h1 class="menu"><a href="./biodata.html">Contact</a></h1>
     </div>
-</body>
+    <div class="center">
+        <h1 style="text-align: center;">Hi, i'm Muh. Adrian, you can call me"RIAN",i currently on SMK 6 Kendari</h1>
+    </div>
+    <center>
+        <a href="index2.html">
+             <button>ABOUT</button>
+        </a>
+        <a href="index2.html">
+             <button>Contact</button>
+        </a>
+    </center>
+    </body>
 </html>

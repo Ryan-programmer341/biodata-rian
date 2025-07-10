@@ -4,21 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        .container{
-            display: flex;
-            margin-left: 900px;
-        }
-
-        .input{
-            text-align: center;
-            display: flex;
-        }
-        .menu{
-            text-align: right;
-            padding-left: 80px;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
@@ -27,8 +13,9 @@
         <h1 class="menu">Contact</h1>
     </div>
     <center>
-        <h1>About</h1>
+        <div class="box">
         <h2 style="text-align: center;"> Please Insert your data </h2>
+        <div class="size-box">
         <label class="body">name</label>
         <input type="text" class="input" placeholder="Username" name="User" required>
 
@@ -37,9 +24,11 @@
 
         <label class="body">School</label>
         <input type="text" class="input" placeholder="School" School="Sch" required>
+        </div>
         <a href="index.html">
-            <button>SUBMIT</button>
+            <button style="font-size: 30px;">SUBMIT</button>
         </a>
+        </div>
     </center>
 </body>
 </html>
